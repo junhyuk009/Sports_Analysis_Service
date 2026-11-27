@@ -1,0 +1,403 @@
+﻿id,team,team_ko,player_en,player_ko,birth_year,age,country,height_cm,number,position
+1,Arsenal,아스날,David Raya,다비드 라야,1995,31,스페인,183,1,GK
+2,Arsenal,아스날,William Saliba,윌리엄 살리바,2001,25,프랑스,192,2,DF
+3,Arsenal,아스날,Cristhian Mosquera,크리스티안 모스케라,2004,22,스페인,191,3,DF
+4,Arsenal,아스날,Ben White,벤 화이트,1997,29,잉글랜드,186,4,DF
+5,Arsenal,아스날,Piero Hincapie,피에로 인카피에,2002,24,에콰도르,184,5,DF
+6,Arsenal,아스날,Gabriel Magalhaes,가브리에우 마갈량이스,1997,29,브라질,190,6,DF
+7,Arsenal,아스날,Bukayo Saka,부카요 사카,2001,25,잉글랜드,178,7,FW
+8,Arsenal,아스날,Martin Odegaard,마르틴 외데고르,1998,28,노르웨이,178,8,MF
+9,Arsenal,아스날,Eberechi Eze,에베레치 에제,1998,28,잉글랜드,178,10,MF
+10,Arsenal,아스날,Jurrien Timber,위리엔 팀버르,2001,25,네덜란드,179,12,DF
+11,Arsenal,아스날,Kepa Arrizabalaga,케파 아리사발라가,1994,32,스페인,188,13,GK
+12,Arsenal,아스날,Viktor Gyokeres,빅토르 요케레스,1998,28,스웨덴,189,14,FW
+13,Arsenal,아스날,Noni Madueke,노니 마두에케,2002,24,잉글랜드,182,20,FW
+14,Arsenal,아스날,Mikel Merino,미켈 메리노,1996,30,스페인,189,23,MF
+15,Arsenal,아스날,Kai Havertz,카이 하베르츠,1999,27,독일,193,29,FW
+16,Arsenal,아스날,Illan Meslier,일랑 메슬리에,2000,26,프랑스,197,30,GK
+17,Arsenal,아스날,Riccardo Calafiori,리카르도 칼라피오리,2002,24,이탈리아,188,33,DF
+18,Arsenal,아스날,Martin Zubimendi,마르틴 수비멘디,1999,27,스페인,181,36,MF
+19,Arsenal,아스날,Declan Rice,데클런 라이스,1999,27,잉글랜드,188,41,MF
+20,Aston Villa,아스톤 빌라,Zion Suzuki,스즈키 자이온,2002,24,일본,190,1,GK
+21,Aston Villa,아스톤 빌라,Matty Cash,매티 캐시,1997,29,폴란드,185,2,DF
+22,Aston Villa,아스톤 빌라,Victor Lindelof,빅토르 린델뢰프,1994,32,스웨덴,187,3,DF
+23,Aston Villa,아스톤 빌라,Taylor Harwood-Bellis,테일러 하우드벨리스,2002,24,잉글랜드,188,4,DF
+24,Aston Villa,아스톤 빌라,Tyrone Mings,타이론 밍스,1993,33,잉글랜드,196,5,DF
+25,Aston Villa,아스톤 빌라,Ross Barkley,로스 바클리,1993,33,잉글랜드,185,6,MF
+26,Aston Villa,아스톤 빌라,John McGinn,존 맥긴,1994,32,스코틀랜드,178,7,MF
+27,Aston Villa,아스톤 빌라,Boubacar Kamara,부바카르 카마라,1999,27,프랑스,184,8,MF
+28,Aston Villa,아스톤 빌라,Emiliano Buendia,에밀리아노 부엔디아,1996,30,아르헨티나,172,10,MF
+29,Aston Villa,아스톤 빌라,Nicolas Jackson,니콜라 잭슨,2001,25,세네갈,187,11,FW
+30,Aston Villa,아스톤 빌라,Matteo Ruggeri,마테오 루게리,2002,24,이탈리아,187,13,DF
+31,Aston Villa,아스톤 빌라,Pau Torres,파우 토레스,1997,29,스페인,191,14,DF
+32,Aston Villa,아스톤 빌라,Alejandro Garnacho,알레한드로 가르나초,2004,22,아르헨티나,180,17,FW
+33,Aston Villa,아스톤 빌라,Tammy Abraham,태미 에이브러햄,1997,29,잉글랜드,194,18,FW
+34,Aston Villa,아스톤 빌라,Ian Maatsen,이안 마트센,2002,24,네덜란드,178,22,DF
+35,Aston Villa,아스톤 빌라,Amadou Onana,아마두 오나나,2001,25,벨기에,195,24,MF
+36,Aston Villa,아스톤 빌라,Leon Goretzka,레온 고레츠카,1995,31,독일,189,27,MF
+37,Aston Villa,아스톤 빌라,Aaron Wan-Bissaka,아론 완비사카,1997,29,잉글랜드,183,29,DF
+38,Aston Villa,아스톤 빌라,Joao Gomes,주앙 고메스,2001,25,브라질,176,35,MF
+39,Aston Villa,아스톤 빌라,Marco Bizot,마르코 비조트,1991,35,네덜란드,193,40,GK
+40,AFC Bournemouth,본머스,Djordje Petrovic,조르제 페트로비치,1999,27,세르비아,194,1,GK
+41,AFC Bournemouth,본머스,Julian Araujo,줄리안 아라우호,2001,25,멕시코,175,2,DF
+42,AFC Bournemouth,본머스,Adrien Truffert,아드리앵 트뤼페르,2001,25,프랑스,176,3,DF
+43,AFC Bournemouth,본머스,Lewis Cook,루이스 쿡,1997,29,잉글랜드,175,4,MF
+44,AFC Bournemouth,본머스,James Hill,제임스 힐,2002,24,잉글랜드,184,5,DF
+45,AFC Bournemouth,본머스,David Brooks,데이비드 브룩스,1997,29,웨일스,173,7,MF
+46,AFC Bournemouth,본머스,Alex Scott,알렉스 스콧,2003,23,잉글랜드,178,8,MF
+47,AFC Bournemouth,본머스,Evanilson,에바니우송,1999,27,브라질,183,9,FW
+48,AFC Bournemouth,본머스,Ryan Christie,라이언 크리스티,1995,31,스코틀랜드,178,10,MF
+49,AFC Bournemouth,본머스,Tyler Adams,타일러 애덤스,1999,27,미국,175,12,MF
+50,AFC Bournemouth,본머스,Adam Smith,아담 스미스,1991,35,잉글랜드,180,15,DF
+51,AFC Bournemouth,본머스,Marcus Tavernier,마커스 태버니어,1999,27,잉글랜드,178,16,MF
+52,AFC Bournemouth,본머스,Fraser Forster,프레이저 포스터,1988,38,잉글랜드,201,17,GK
+53,AFC Bournemouth,본머스,Bafode Diakite,바포데 디아키테,2001,25,프랑스,185,18,DF
+54,AFC Bournemouth,본머스,Justin Kluivert,저스틴 클라위베르트,1999,27,네덜란드,171,19,FW
+55,AFC Bournemouth,본머스,Amine Adli,아민 아들리,2000,26,모로코,174,21,FW
+56,AFC Bournemouth,본머스,Max Aarons,맥스 애런스,2000,26,잉글랜드,178,28,DF
+57,AFC Bournemouth,본머스,Alvaro Rodriguez,알바로 로드리게스,2004,22,우루과이,193,30,FW
+58,Brentford,브렌트퍼드,Caoimhin Kelleher,퀴빈 켈러허,1998,28,아일랜드,188,1,GK
+59,Brentford,브렌트퍼드,Aaron Hickey,아론 히키,2002,24,스코틀랜드,185,2,DF
+60,Brentford,브렌트퍼드,Rico Henry,리코 헨리,1997,29,잉글랜드,170,3,DF
+61,Brentford,브렌트퍼드,Sepp van den Berg,셉 판덴베르흐,2001,25,네덜란드,192,4,DF
+62,Brentford,브렌트퍼드,Yehor Yarmoliuk,예호르 야르몰류크,2004,22,우크라이나,180,6,MF
+63,Brentford,브렌트퍼드,Kevin Schade,케빈 샤데,2001,25,독일,185,7,FW
+64,Brentford,브렌트퍼드,Mathias Jensen,마티아스 옌센,1996,30,덴마크,180,8,MF
+65,Brentford,브렌트퍼드,Igor Thiago,이고르 티아구,2001,25,브라질,188,9,FW
+66,Brentford,브렌트퍼드,Josh Dasilva,조시 다실바,1998,28,잉글랜드,184,10,MF
+67,Brentford,브렌트퍼드,Dango Ouattara,당고 와타라,2002,24,부르키나파소,177,11,FW
+68,Brentford,브렌트퍼드,Hakon Valdimarsson,하콘 발디마르손,2001,25,아이슬란드,195,12,GK
+69,Brentford,브렌트퍼드,Callum Wilson,칼럼 윌슨,1992,34,잉글랜드,180,13,FW
+70,Brentford,브렌트퍼드,Fabio Carvalho,파비우 카르발류,2002,24,포르투갈,170,14,MF
+71,Brentford,브렌트퍼드,Mamadou Sangare,마마두 상가레,2002,24,말리,178,18,MF
+72,Brentford,브렌트퍼드,Jaidon Anthony,제이든 앤서니,1999,27,잉글랜드,183,19,FW
+73,Brentford,브렌트퍼드,Kristoffer Ajer,크리스토페르 아예르,1998,28,노르웨이,198,20,DF
+74,Brentford,브렌트퍼드,Nathan Collins,네이선 콜린스,2001,25,아일랜드,193,22,DF
+75,Brentford,브렌트퍼드,Mikkel Damsgaard,미켈 담스고르,2000,26,덴마크,180,24,MF
+76,Brentford,브렌트퍼드,El Hadji Malick Diouf,엘 하지 말리크 디우프,2004,22,세네갈,183,25,DF
+77,Brentford,브렌트퍼드,Vitaly Janelt,비탈리 야넬트,1998,28,독일,184,27,MF
+78,Brentford,브렌트퍼드,Michael Kayode,미카엘 카요데,2004,22,이탈리아,179,33,DF
+79,Brentford,브렌트퍼드,Kim Ji-Soo,김지수,2004,22,대한민국,192,36,DF
+80,Brighton & Hove Albion,브라이턴,Bart Verbruggen,바르트 페르브뤼헌,2002,24,네덜란드,193,1,GK
+81,Brighton & Hove Albion,브라이턴,Jaouen Hadjam,자우엔 하잠,2003,23,알제리,185,3,DF
+82,Brighton & Hove Albion,브라이턴,Pascal Struijk,파스칼 스트라위크,1999,27,네덜란드,190,4,DF
+83,Brighton & Hove Albion,브라이턴,Lewis Dunk,루이스 덩크,1991,35,잉글랜드,192,5,DF
+84,Brighton & Hove Albion,브라이턴,Kaoru Mitoma,미토마 가오루,1997,29,일본,178,7,FW
+85,Brighton & Hove Albion,브라이턴,Jack Hinshelwood,잭 힌셜우드,2005,21,잉글랜드,182,8,MF
+86,Brighton & Hove Albion,브라이턴,Stefanos Tzimas,스테파노스 치마스,2006,20,그리스,183,9,FW
+87,Brighton & Hove Albion,브라이턴,Georginio Rutter,조르지니오 루터,2002,24,프랑스,182,10,FW
+88,Brighton & Hove Albion,브라이턴,Yankuba Minteh,얀쿠바 민테,2004,22,감비아,180,11,FW
+89,Brighton & Hove Albion,브라이턴,Pascal Gross,파스칼 그로스,1991,35,독일,181,13,MF
+90,Brighton & Hove Albion,브라이턴,Ibrahim Osman,이브라힘 오스만,2004,22,가나,178,15,FW
+91,Brighton & Hove Albion,브라이턴,Charalampos Kostoulas,하랄람포스 코스툴라스,2007,19,그리스,185,19,FW
+92,Brighton & Hove Albion,브라이턴,Olivier Boscagli,올리비에 보스칼리,1997,29,프랑스,181,21,DF
+93,Brighton & Hove Albion,브라이턴,Jason Steele,제이슨 스틸,1990,36,잉글랜드,188,23,GK
+94,Brighton & Hove Albion,브라이턴,Ferdi Kadioglu,페르디 카디올루,1999,27,튀르키예,174,24,DF
+95,Brighton & Hove Albion,브라이턴,Diego Gomez,디에고 고메스,2003,23,파라과이,183,25,MF
+96,Brighton & Hove Albion,브라이턴,Yasin Ayari,야신 아야리,2003,23,스웨덴,172,26,MF
+97,Brighton & Hove Albion,브라이턴,Mats Wieffer,마츠 비퍼르,1999,27,네덜란드,188,27,MF
+98,Brighton & Hove Albion,브라이턴,Evan Ferguson,에반 퍼거슨,2004,22,아일랜드,188,28,FW
+99,Brighton & Hove Albion,브라이턴,Maxim De Cuyper,막심 데 카위퍼,2000,26,벨기에,182,29,DF
+100,Chelsea,첼시,Emiliano Martinez,에밀리아노 마르티네스,1992,34,아르헨티나,195,1,GK
+101,Chelsea,첼시,Marco Palestra,마르코 팔레스트라,2005,21,이탈리아,186,2,DF
+102,Chelsea,첼시,Wesley Fofana,웨슬리 포파나,2000,26,프랑스,190,3,DF
+103,Chelsea,첼시,Valentin Barco,발렌틴 바르코,2004,22,아르헨티나,172,4,DF
+104,Chelsea,첼시,Maxence Lacroix,막상스 라크루아,2000,26,프랑스,190,5,DF
+105,Chelsea,첼시,Levi Colwill,리바이 콜윌,2003,23,잉글랜드,187,6,DF
+106,Chelsea,첼시,Pedro Neto,페드루 네투,2000,26,포르투갈,172,7,FW
+107,Chelsea,첼시,Joao Pedro,주앙 페드루,2001,25,브라질,182,9,FW
+108,Chelsea,첼시,Cole Palmer,콜 파머,2002,24,잉글랜드,189,10,MF
+109,Chelsea,첼시,Jamie Gittens,제이미 기튼스,2004,22,잉글랜드,175,11,FW
+110,Chelsea,첼시,Jordan Henderson,조던 헨더슨,1990,36,잉글랜드,182,14,MF
+111,Chelsea,첼시,Morgan Rogers,모건 로저스,2002,24,잉글랜드,187,17,MF
+112,Chelsea,첼시,Danny Welbeck,대니 웰벡,1990,36,잉글랜드,185,18,FW
+113,Chelsea,첼시,Jorrel Hato,요렐 하토,2006,20,네덜란드,182,21,DF
+114,Chelsea,첼시,Emmanuel Emegha,엠마누엘 에메가,2003,23,네덜란드,195,22,FW
+115,Chelsea,첼시,Geovany Quenda,지오바니 켄다,2007,19,포르투갈,172,23,FW
+116,Chelsea,첼시,Reece James,리스 제임스,1999,27,잉글랜드,179,24,DF
+117,Chelsea,첼시,Moises Caicedo,모이세스 카이세도,2001,25,에콰도르,178,25,MF
+118,Chelsea,첼시,Malo Gusto,말로 귀스토,2003,23,프랑스,179,27,DF
+119,Chelsea,첼시,Mike Penders,마이크 펜더스,2005,21,벨기에,200,39,GK
+120,Chelsea,첼시,Estevao,에스테방,2007,19,브라질,176,41,FW
+121,Chelsea,첼시,Romeo Lavia,로메오 라비아,2004,22,벨기에,181,45,MF
+122,Coventry City,코번트리,Ethan Pinnock,에단 피녹,1993,33,자메이카,187,2,DF
+123,Coventry City,코번트리,Jay Dasilva,제이 다실바,1998,28,잉글랜드,170,3,DF
+124,Coventry City,코번트리,Bobby Thomas,바비 토머스,2001,25,잉글랜드,190,4,DF
+125,Coventry City,코번트리,Jack Rudoni,잭 루도니,2001,25,잉글랜드,178,5,MF
+126,Coventry City,코번트리,Matt Grimes,맷 그림스,1995,31,잉글랜드,178,6,MF
+127,Coventry City,코번트리,Tatsuhiro Sakamoto,사카모토 다쓰히로,1996,30,일본,170,7,MF
+128,Coventry City,코번트리,Caleb Yirenkyi,캘럽 이렌키,2005,21,가나,180,8,MF
+129,Coventry City,코번트리,Ellis Simms,엘리스 심스,2001,25,잉글랜드,191,9,FW
+130,Coventry City,코번트리,Ephron Mason-Clark,에프론 메이슨클라크,1999,27,잉글랜드,178,10,FW
+131,Coventry City,코번트리,Haji Wright,하지 라이트,1998,28,미국,193,11,FW
+132,Coventry City,코번트리,Ben Wilson,벤 윌슨,1992,34,잉글랜드,186,13,GK
+133,Coventry City,코번트리,Taiwo Awoniyi,타이워 아워니이,1997,29,나이지리아,183,14,FW
+134,Coventry City,코번트리,Frank Onyeka,프랭크 오니에카,1998,28,나이지리아,183,16,MF
+135,Coventry City,코번트리,Loum Tchaouna,룸 차우나,2003,23,프랑스,180,18,FW
+136,Coventry City,코번트리,Carl Rushworth,칼 러시워스,2001,25,잉글랜드,188,19,GK
+137,Coventry City,코번트리,Kaine Kesler-Hayden,케인 케슬러헤이든,2002,24,잉글랜드,175,20,DF
+138,Coventry City,코번트리,Joel Latibeaudiere,조엘 라티보디에르,2000,26,자메이카,180,22,DF
+139,Coventry City,코번트리,Brandon Thomas-Asante,브랜던 토머스아산테,1998,28,가나,182,23,FW
+140,Coventry City,코번트리,Aurele Amenda,오렐 아멘다,2003,23,스위스,194,24,DF
+141,Coventry City,코번트리,Victor Torp,빅토르 토르프,1999,27,덴마크,178,29,MF
+142,Crystal Palace,크리스털 팰리스,Dean Henderson,딘 헨더슨,1997,29,잉글랜드,188,1,GK
+143,Crystal Palace,크리스털 팰리스,Tyrick Mitchell,타이릭 미첼,1999,27,잉글랜드,180,3,DF
+144,Crystal Palace,크리스털 팰리스,Chadi Riad,차디 리아드,2003,23,모로코,187,4,DF
+145,Crystal Palace,크리스털 팰리스,Axel Disasi,악셀 디사시,1998,28,프랑스,190,5,DF
+146,Crystal Palace,크리스털 팰리스,Ismaila Sarr,이스마일라 사르,1998,28,세네갈,185,7,FW
+147,Crystal Palace,크리스털 팰리스,Jefferson Lerma,헤페르손 레르마,1994,32,콜롬비아,179,8,MF
+148,Crystal Palace,크리스털 팰리스,Eddie Nketiah,에디 은케티아,1999,27,잉글랜드,175,9,FW
+149,Crystal Palace,크리스털 팰리스,Yeremy Pino,예레미 피노,2002,24,스페인,172,10,FW
+150,Crystal Palace,크리스털 팰리스,Dwight McNeil,드와이트 맥닐,1999,27,잉글랜드,183,11,MF
+151,Crystal Palace,크리스털 팰리스,Jean-Philippe Mateta,장필리프 마테타,1997,29,프랑스,192,14,FW
+152,Crystal Palace,크리스털 팰리스,Takehiro Tomiyasu,토미야스 다케히로,1998,28,일본,188,17,DF
+153,Crystal Palace,크리스털 팰리스,Daichi Kamada,가마다 다이치,1996,30,일본,184,18,MF
+154,Crystal Palace,크리스털 팰리스,Will Hughes,윌 휴스,1995,31,잉글랜드,185,19,MF
+155,Crystal Palace,크리스털 팰리스,Adam Wharton,애덤 워튼,2004,22,잉글랜드,182,20,MF
+156,Crystal Palace,크리스털 팰리스,Jorgen Strand Larsen,요르겐 스트란 라르센,2000,26,노르웨이,193,22,FW
+157,Crystal Palace,크리스털 팰리스,Quinten Timber,퀸턴 팀버르,2001,25,네덜란드,179,23,MF
+158,Crystal Palace,크리스털 팰리스,Dario Osorio,다리오 오소리오,2004,22,칠레,184,24,FW
+159,Crystal Palace,크리스털 팰리스,Chris Richards,크리스 리차즈,2000,26,미국,188,26,DF
+160,Crystal Palace,크리스털 팰리스,Cheick Doucoure,셰이크 두쿠레,2000,26,말리,180,28,MF
+161,Crystal Palace,크리스털 팰리스,Evann Guessand,에반 게상,2001,25,코트디부아르,185,29,FW
+162,Everton,에버턴,Jordan Pickford,조던 픽퍼드,1994,32,잉글랜드,185,1,GK
+163,Everton,에버턴,Ainsley Maitland-Niles,에인슬리 메이틀랜드나일스,1997,29,잉글랜드,180,2,DF
+164,Everton,에버턴,Jarrad Branthwaite,재러드 브랜스웨이트,2002,24,잉글랜드,195,4,DF
+165,Everton,에버턴,Michael Keane,마이클 킨,1993,33,잉글랜드,191,5,DF
+166,Everton,에버턴,James Tarkowski,제임스 타코우스키,1992,34,잉글랜드,185,6,DF
+167,Everton,에버턴,Kiernan Dewsbury-Hall,키어넌 듀스버리홀,1998,28,잉글랜드,178,8,MF
+168,Everton,에버턴,Jack Grealish,잭 그릴리시,1995,31,잉글랜드,180,10,MF
+169,Everton,에버턴,Thierno Barry,티에르노 바리,2002,24,프랑스,195,11,FW
+170,Everton,에버턴,Mark Travers,마크 트래버스,1999,27,아일랜드,191,12,GK
+171,Everton,에버턴,Jake O'Brien,제이크 오브라이언,2001,25,아일랜드,197,15,DF
+172,Everton,에버턴,Vitalii Mykolenko,비탈리 미콜렌코,1999,27,우크라이나,180,16,DF
+173,Everton,에버턴,Tyler Dibling,타일러 디블링,2006,20,잉글랜드,178,20,MF
+174,Everton,에버턴,Brennan Johnson,브레넌 존슨,2001,25,웨일스,186,22,FW
+175,Everton,에버턴,Christian Norgaard,크리스티안 뇌르고르,1994,32,덴마크,187,23,MF
+176,Everton,에버턴,Charly Alcaraz,찰리 알카라스,2002,24,아르헨티나,183,24,MF
+177,Everton,에버턴,Hayden Hackney,헤이든 해크니,2002,24,잉글랜드,178,30,MF
+178,Everton,에버턴,Merlin Rohl,메를린 뢸,2002,24,독일,192,34,MF
+179,Everton,에버턴,James Garner,제임스 가너,2001,25,잉글랜드,186,37,MF
+180,Fulham,풀럼,Bernd Leno,베른트 레노,1992,34,독일,190,1,GK
+181,Fulham,풀럼,Kenny Tete,케니 테테,1995,31,네덜란드,180,2,DF
+182,Fulham,풀럼,Calvin Bassey,캘빈 배시,1999,27,나이지리아,185,3,DF
+183,Fulham,풀럼,Jorge Cuenca,호르헤 쿠엔카,1999,27,스페인,190,4,DF
+184,Fulham,풀럼,Joachim Andersen,요아킴 안데르센,1996,30,덴마크,192,5,DF
+185,Fulham,풀럼,Harrison Reed,해리슨 리드,1995,31,잉글랜드,181,6,MF
+186,Fulham,풀럼,Gonzalo Garcia,곤살로 가르시아,2004,22,스페인,182,7,FW
+187,Fulham,풀럼,Rodrigo Muniz,호드리구 무니스,2001,25,브라질,185,9,FW
+188,Fulham,풀럼,Tom Cairney,톰 케어니,1991,35,스코틀랜드,185,10,MF
+189,Fulham,풀럼,Oscar Bobb,오스카르 보브,2003,23,노르웨이,175,14,MF
+190,Fulham,풀럼,Hugo Larsson,후고 라르손,2004,22,스웨덴,187,15,MF
+191,Fulham,풀럼,Sander Berge,산데르 베르게,1998,28,노르웨이,195,16,MF
+192,Fulham,풀럼,Alex Iwobi,알렉스 이워비,1996,30,나이지리아,180,17,MF
+193,Fulham,풀럼,Shea Charles,셰이 찰스,2003,23,북아일랜드,189,19,MF
+194,Fulham,풀럼,Timothy Castagne,티모시 카스타뉴,1995,31,벨기에,185,21,DF
+195,Fulham,풀럼,David Affengruber,다비드 아펜그루버,2001,25,오스트리아,185,22,DF
+196,Fulham,풀럼,Benjamin Lecomte,벤자맹 르콩트,1991,35,프랑스,186,23,GK
+197,Fulham,풀럼,Ryan Sessegnon,라이언 세세뇽,2000,26,잉글랜드,178,30,DF
+198,Fulham,풀럼,Emile Smith Rowe,에밀 스미스 로,2000,26,잉글랜드,182,32,MF
+199,Fulham,풀럼,Antonee Robinson,안토니 로빈슨,1997,29,미국,183,33,DF
+200,Hull City,헐 시티,Jack Butland,잭 버틀랜드,1993,33,잉글랜드,196,1,GK
+201,Hull City,헐 시티,Lewie Coyle,루이 코일,1995,31,잉글랜드,173,2,DF
+202,Hull City,헐 시티,Ryan Giles,라이언 자일스,2000,26,잉글랜드,179,3,DF
+203,Hull City,헐 시티,Charlie Hughes,찰리 휴스,2003,23,잉글랜드,188,4,DF
+204,Hull City,헐 시티,Hidemasa Morita,모리타 히데마사,1995,31,일본,177,5,MF
+205,Hull City,헐 시티,Semi Ajayi,세미 아자이,1993,33,나이지리아,193,6,DF
+206,Hull City,헐 시티,Sorba Thomas,소르바 토머스,1999,27,웨일스,185,7,MF
+207,Hull City,헐 시티,Eliot Matazo,엘리엇 마타조,2002,24,벨기에,170,8,MF
+208,Hull City,헐 시티,Oliver McBurnie,올리버 맥버니,1996,30,스코틀랜드,188,9,FW
+209,Hull City,헐 시티,Mohamed Belloumi,모하메드 벨루미,2002,24,알제리,177,10,FW
+210,Hull City,헐 시티,Joe Gelhardt,조 겔하트,2002,24,잉글랜드,175,11,FW
+211,Hull City,헐 시티,Dillon Phillips,딜런 필립스,1995,31,잉글랜드,192,12,GK
+212,Hull City,헐 시티,John Egan,존 이건,1992,34,아일랜드,185,15,DF
+213,Hull City,헐 시티,Paddy McNair,패디 맥네어,1995,31,북아일랜드,183,17,DF
+214,Hull City,헐 시티,Brooke Norton-Cuffy,브룩 노턴커피,2004,22,잉글랜드,181,18,DF
+215,Hull City,헐 시티,Konstantinos Tzolakis,콘스탄티노스 촐라키스,2002,24,그리스,193,19,GK
+216,Hull City,헐 시티,Matt Targett,맷 타깃,1995,31,잉글랜드,183,23,DF
+217,Hull City,헐 시티,Matt Crooks,맷 크룩스,1994,32,잉글랜드,191,25,MF
+218,Hull City,헐 시티,Regan Slater,리건 슬레이터,1999,27,잉글랜드,178,27,MF
+219,Hull City,헐 시티,Lucas Gourna-Douath,뤼카 구르나두아트,2003,23,프랑스,185,29,MF
+220,Ipswich Town,입스위치,Alex Palmer,알렉스 파머,1996,30,잉글랜드,191,1,GK
+221,Ipswich Town,입스위치,Darnell Furlong,다넬 펄롱,1995,31,잉글랜드,183,2,DF
+222,Ipswich Town,입스위치,Leif Davis,리프 데이비스,1999,27,잉글랜드,182,3,DF
+223,Ipswich Town,입스위치,Cedric Kipre,세드리크 키프레,1996,30,코트디부아르,193,4,DF
+224,Ipswich Town,입스위치,Azor Matusiwa,아조르 마투시와,1998,28,네덜란드,173,5,MF
+225,Ipswich Town,입스위치,Issa Diop,이사 디오프,1997,29,프랑스,194,6,DF
+226,Ipswich Town,입스위치,Abdul Fatawu,압둘 파타우,2004,22,가나,177,7,FW
+227,Ipswich Town,입스위치,Sindre Egeli,신드레 에겔리,2006,20,노르웨이,183,8,FW
+228,Ipswich Town,입스위치,Zian Flemming,지안 플레밍,1998,28,네덜란드,185,9,MF
+229,Ipswich Town,입스위치,Julio Enciso,훌리오 엔시소,2004,22,파라과이,173,10,MF
+230,Ipswich Town,입스위치,Jaden Philogene,제이든 필로진,2002,24,잉글랜드,181,11,FW
+231,Ipswich Town,입스위치,Florentino,플로렌티누,1999,27,포르투갈,184,12,MF
+232,Ipswich Town,입스위치,Jack Taylor,잭 테일러,1998,28,아일랜드,185,14,MF
+233,Ipswich Town,입스위치,Kasey McAteer,케이시 맥아티어,2001,25,아일랜드,180,20,FW
+234,Ipswich Town,입스위치,Sasa Lukic,사샤 루키치,1996,30,세르비아,183,23,MF
+235,Ipswich Town,입스위치,Jacob Greaves,제이콥 그리브스,2000,26,잉글랜드,185,24,DF
+236,Ipswich Town,입스위치,Exequiel Palacios,엑세키엘 팔라시오스,1998,28,아르헨티나,177,25,MF
+237,Ipswich Town,입스위치,Dara O'Shea,다라 오셰이,1999,27,아일랜드,189,26,DF
+238,Ipswich Town,입스위치,David Button,데이비드 버튼,1989,37,잉글랜드,191,27,GK
+239,Ipswich Town,입스위치,Christian Walton,크리스천 월턴,1995,31,잉글랜드,195,28,GK
+240,Leeds United,리즈 유나이티드,James Trafford,제임스 트래퍼드,2002,24,잉글랜드,192,1,GK
+241,Leeds United,리즈 유나이티드,Jayden Bogle,제이든 보글,2000,26,잉글랜드,178,2,DF
+242,Leeds United,리즈 유나이티드,Gabriel Gudmundsson,가브리엘 구드문드손,1999,27,스웨덴,180,3,DF
+243,Leeds United,리즈 유나이티드,Ethan Ampadu,에단 암파두,2000,26,웨일스,183,4,MF
+244,Leeds United,리즈 유나이티드,Tarik Muharemovic,타릭 무하레모비치,2003,23,보스니아 헤르체고비나,187,5,DF
+245,Leeds United,리즈 유나이티드,Joe Rodon,조 로든,1997,29,웨일스,193,6,DF
+246,Leeds United,리즈 유나이티드,Daniel James,대니얼 제임스,1997,29,웨일스,171,7,FW
+247,Leeds United,리즈 유나이티드,Sean Longstaff,션 롱스태프,1997,29,잉글랜드,180,8,MF
+248,Leeds United,리즈 유나이티드,Dominic Calvert-Lewin,도미닉 칼버트르윈,1997,29,잉글랜드,187,9,FW
+249,Leeds United,리즈 유나이티드,Harry Wilson,해리 윌슨,1997,29,웨일스,173,10,MF
+250,Leeds United,리즈 유나이티드,Brenden Aaronson,브렌던 애런슨,2000,26,미국,177,11,MF
+251,Leeds United,리즈 유나이티드,Lukas Nmecha,루카스 은메차,1998,28,독일,185,14,FW
+252,Leeds United,리즈 유나이티드,Jaka Bijol,야카 비욜,1999,27,슬로베니아,190,15,DF
+253,Leeds United,리즈 유나이티드,Michael Zetterer,미하엘 체터러,1995,31,독일,187,16,GK
+254,Leeds United,리즈 유나이티드,Anton Stach,안톤 슈타흐,1998,28,독일,193,18,MF
+255,Leeds United,리즈 유나이티드,Noah Okafor,노아 오카포르,2000,26,스위스,185,19,FW
+256,Leeds United,리즈 유나이티드,Ao Tanaka,다나카 아오,1998,28,일본,180,22,MF
+257,Leeds United,리즈 유나이티드,James Justin,제임스 저스틴,1998,28,잉글랜드,183,24,DF
+258,Leeds United,리즈 유나이티드,Melvin Bard,멜빈 바르,2000,26,프랑스,173,26,DF
+259,Leeds United,리즈 유나이티드,Nico Elvedi,니코 엘베디,1996,30,스위스,189,30,DF
+260,Liverpool,리버풀,Alisson Becker,알리송 베케르,1992,34,브라질,193,1,GK
+261,Liverpool,리버풀,Joe Gomez,조 고메즈,1997,29,잉글랜드,188,2,DF
+262,Liverpool,리버풀,Wataru Endo,엔도 와타루,1993,33,일본,178,3,MF
+263,Liverpool,리버풀,Virgil van Dijk,버질 판다이크,1991,35,네덜란드,195,4,DF
+264,Liverpool,리버풀,Jeremy Jacquet,제레미 자케,2005,21,프랑스,190,5,DF
+265,Liverpool,리버풀,Milos Kerkez,밀로시 케르케즈,2003,23,헝가리,176,6,DF
+266,Liverpool,리버풀,Florian Wirtz,플로리안 비르츠,2003,23,독일,177,7,MF
+267,Liverpool,리버풀,Dominik Szoboszlai,도미니크 소보슬라이,2000,26,헝가리,186,8,MF
+268,Liverpool,리버풀,Alexander Isak,알렉산데르 이사크,1999,27,스웨덴,192,9,FW
+269,Liverpool,리버풀,Alexis Mac Allister,알렉시스 맥 앨리스터,1998,28,아르헨티나,176,10,MF
+270,Liverpool,리버풀,Conor Bradley,코너 브래들리,2003,23,북아일랜드,181,12,DF
+271,Liverpool,리버풀,Federico Chiesa,페데리코 키에사,1997,29,이탈리아,175,14,FW
+272,Liverpool,리버풀,Giovanni Leoni,조반니 레오니,2006,20,이탈리아,196,15,DF
+273,Liverpool,리버풀,Cody Gakpo,코디 각포,1999,27,네덜란드,193,18,FW
+274,Liverpool,리버풀,Kostas Tsimikas,코스타스 치미카스,1996,30,그리스,179,21,DF
+275,Liverpool,리버풀,Hugo Ekitike,위고 에키티케,2002,24,프랑스,190,22,FW
+276,Liverpool,리버풀,Giorgi Mamardashvili,기오르기 마마르다슈빌리,2000,26,조지아,197,25,GK
+277,Liverpool,리버풀,Bradley Barcola,브래들리 바르콜라,2002,24,프랑스,186,29,FW
+278,Liverpool,리버풀,Jeremie Frimpong,제레미 프림퐁,2000,26,네덜란드,172,30,DF
+279,Liverpool,리버풀,Ronald Araujo,로날드 아라우호,1999,27,우루과이,188,33,DF
+280,Liverpool,리버풀,Ryan Gravenberch,라이언 흐라번베르흐,2002,24,네덜란드,190,38,MF
+281,Manchester City,맨체스터 시티,Gianluigi Donnarumma,잔루이지 돈나룸마,1999,27,이탈리아,196,1,GK
+282,Manchester City,맨체스터 시티,Ruben Dias,후벵 디아스,1997,29,포르투갈,187,3,DF
+283,Manchester City,맨체스터 시티,Elliot Anderson,엘리엇 앤더슨,2002,24,잉글랜드,179,5,MF
+284,Manchester City,맨체스터 시티,Marc Guehi,마크 게히,2000,26,잉글랜드,182,6,DF
+285,Manchester City,맨체스터 시티,Iliman Ndiaye,일리만 은디아예,2000,26,세네갈,180,7,FW
+286,Manchester City,맨체스터 시티,Mateo Kovacic,마테오 코바치치,1994,32,크로아티아,177,8,MF
+287,Manchester City,맨체스터 시티,Erling Haaland,엘링 홀란,2000,26,노르웨이,195,9,FW
+288,Manchester City,맨체스터 시티,Rayan Cherki,라얀 셰르키,2003,23,프랑스,177,10,MF
+289,Manchester City,맨체스터 시티,Jeremy Doku,제레미 도쿠,2002,24,벨기에,173,11,FW
+290,Manchester City,맨체스터 시티,Marcus Bettinelli,마커스 베티넬리,1992,34,잉글랜드,193,13,GK
+291,Manchester City,맨체스터 시티,Enzo Fernandez,엔소 페르난데스,2001,25,아르헨티나,178,17,MF
+292,Manchester City,맨체스터 시티,Rayan Ait-Nouri,라얀 아이트누리,2001,25,알제리,180,21,DF
+293,Manchester City,맨체스터 시티,Vitor Reis,비토르 헤이스,2006,20,브라질,186,22,DF
+294,Manchester City,맨체스터 시티,Josko Gvardiol,요슈코 그바르디올,2002,24,크로아티아,185,24,DF
+295,Manchester City,맨체스터 시티,Matheus Nunes,마테우스 누네스,1998,28,포르투갈,183,27,MF
+296,Manchester City,맨체스터 시티,Geronimo Rulli,헤로니모 룰리,1992,34,아르헨티나,189,28,GK
+297,Manchester City,맨체스터 시티,Ayyoub Bouaddi,아요브 부아디,2007,19,프랑스,185,32,MF
+298,Manchester City,맨체스터 시티,Nico O'Reilly,니코 오라일리,2005,21,잉글랜드,193,33,MF
+299,Manchester City,맨체스터 시티,Antoine Semenyo,앙투안 세메뇨,2000,26,가나,185,42,FW
+300,Manchester City,맨체스터 시티,Abdukodir Khusanov,압두코디르 후사노프,2004,22,우즈베키스탄,186,45,DF
+301,Manchester City,맨체스터 시티,Phil Foden,필 포든,2000,26,잉글랜드,171,47,MF
+302,Manchester City,맨체스터 시티,Rico Lewis,리코 루이스,2004,22,잉글랜드,169,82,DF
+303,Manchester United,맨체스터 유나이티드,Senne Lammens,센네 라멘스,2002,24,벨기에,193,1,GK
+304,Manchester United,맨체스터 유나이티드,Diogo Dalot,디오구 달로트,1999,27,포르투갈,183,2,DF
+305,Manchester United,맨체스터 유나이티드,Noussair Mazraoui,누사이르 마즈라위,1997,29,모로코,183,3,DF
+306,Manchester United,맨체스터 유나이티드,Matthijs de Ligt,마테이스 더리흐트,1999,27,네덜란드,189,4,DF
+307,Manchester United,맨체스터 유나이티드,Harry Maguire,해리 매과이어,1993,33,잉글랜드,194,5,DF
+308,Manchester United,맨체스터 유나이티드,Lisandro Martinez,리스andro 마르티네스,1998,28,아르헨티나,175,6,DF
+309,Manchester United,맨체스터 유나이티드,Mason Mount,메이슨 마운트,1999,27,잉글랜드,181,7,MF
+310,Manchester United,맨체스터 유나이티드,Bruno Fernandes,브루누 페르난드스,1994,32,포르투갈,179,8,MF
+311,Manchester United,맨체스터 유나이티드,Marcus Rashford,마커스 래시퍼드,1997,29,잉글랜드,185,9,FW
+312,Manchester United,맨체스터 유나이티드,Matheus Cunha,마테우스 쿠냐,1999,27,브라질,184,10,FW
+313,Manchester United,맨체스터 유나이티드,Joshua Zirkzee,조슈아 지르크지,2001,25,네덜란드,193,11,FW
+314,Manchester United,맨체스터 유나이티드,Karl Darlow,칼 달로,1990,36,잉글랜드,190,12,GK
+315,Manchester United,맨체스터 유나이티드,Patrick Dorgu,파트리크 도르구,2004,22,덴마크,185,13,DF
+316,Manchester United,맨체스터 유나이티드,Leny Yoro,레니 요로,2005,21,프랑스,190,15,DF
+317,Manchester United,맨체스터 유나이티드,Amad Diallo,아마드 디알로,2002,24,코트디부아르,173,16,FW
+318,Manchester United,맨체스터 유나이티드,Andrey Santos,안드레이 산투스,2004,22,브라질,180,17,MF
+319,Manchester United,맨체스터 유나이티드,Youri Tielemans,유리 틸레만스,1997,29,벨기에,176,18,MF
+320,Manchester United,맨체스터 유나이티드,Bryan Mbeumo,브라이언 음뵈모,1999,27,카메룬,171,19,FW
+321,Manchester United,맨체스터 유나이티드,Carlos Baleba,카를로스 발레바,2004,22,카메룬,179,20,MF
+322,Manchester United,맨체스터 유나이티드,Luke Shaw,루크 쇼,1995,31,잉글랜드,181,23,DF
+323,Manchester United,맨체스터 유나이티드,Manuel Ugarte,마누엘 우가르테,2001,25,우루과이,182,25,MF
+324,Manchester United,맨체스터 유나이티드,Benjamin Sesko,베냐민 셰슈코,2003,23,슬로베니아,195,30,FW
+325,Newcastle United,뉴캐슬,Nick Pope,닉 포프,1992,34,잉글랜드,191,1,GK
+326,Newcastle United,뉴캐슬,Tino Livramento,티노 리브라멘토,2002,24,잉글랜드,182,2,DF
+327,Newcastle United,뉴캐슬,Lewis Hall,루이스 홀,2004,22,잉글랜드,179,3,DF
+328,Newcastle United,뉴캐슬,Sven Botman,스벤 보트만,2000,26,네덜란드,193,4,DF
+329,Newcastle United,뉴캐슬,Fabian Schar,파비안 셰어,1991,35,스위스,186,5,DF
+330,Newcastle United,뉴캐슬,Nico Gonzalez,니코 곤살레스,2002,24,스페인,188,6,MF
+331,Newcastle United,뉴캐슬,Joelinton,조엘린통,1996,30,브라질,186,7,MF
+332,Newcastle United,뉴캐슬,Yoane Wissa,요안 위사,1996,30,콩고민주공화국,176,9,FW
+333,Newcastle United,뉴캐슬,William Osula,윌리엄 오술라,2003,23,덴마크,191,10,FW
+334,Newcastle United,뉴캐슬,Harvey Barnes,하비 반스,1997,29,잉글랜드,174,11,FW
+335,Newcastle United,뉴캐슬,Malick Thiaw,말리크 티아우,2001,25,독일,194,12,DF
+336,Newcastle United,뉴캐슬,Sean Steur,션 스퇴르,2008,18,네덜란드,178,14,MF
+337,Newcastle United,뉴캐슬,Bazoumana Toure,바주마나 투레,2006,20,코트디부아르,175,17,FW
+338,Newcastle United,뉴캐슬,Anthony Elanga,안토니 엘랑가,2002,24,스웨덴,178,19,FW
+339,Newcastle United,뉴캐슬,Matias Fernandez-Pardo,마티아스 페르난데스파르도,2005,21,벨기에,182,20,FW
+340,Newcastle United,뉴캐슬,Jacob Murphy,제이콥 머피,1995,31,잉글랜드,179,23,FW
+341,Newcastle United,뉴캐슬,Joe Willock,조 윌록,1999,27,잉글랜드,179,28,MF
+342,Newcastle United,뉴캐슬,Dan Burn,댄 번,1992,34,잉글랜드,201,33,DF
+343,Newcastle United,뉴캐슬,Jacob Ramsey,제이콥 램지,2001,25,잉글랜드,180,41,MF
+344,Newcastle United,뉴캐슬,Lewis Miley,루이스 마일리,2006,20,잉글랜드,189,67,MF
+345,Nottingham Forest,노팅엄 포레스트,Matz Sels,마츠 셀스,1992,34,벨기에,188,1,GK
+346,Nottingham Forest,노팅엄 포레스트,Ola Aina,올라 아이나,1996,30,나이지리아,184,2,DF
+347,Nottingham Forest,노팅엄 포레스트,Neco Williams,네코 윌리엄스,2001,25,웨일스,183,3,DF
+348,Nottingham Forest,노팅엄 포레스트,Murillo,무릴루,2002,24,브라질,180,4,DF
+349,Nottingham Forest,노팅엄 포레스트,Nikola Milenkovic,니콜라 밀렌코비치,1997,29,세르비아,195,5,DF
+350,Nottingham Forest,노팅엄 포레스트,Ibrahim Sangare,이브라힘 상가레,1997,29,코트디부아르,191,6,MF
+351,Nottingham Forest,노팅엄 포레스트,Callum Hudson-Odoi,칼럼 허드슨오도이,2000,26,잉글랜드,182,7,FW
+352,Nottingham Forest,노팅엄 포레스트,Nicolas Dominguez,니콜라스 도밍게스,1998,28,아르헨티나,179,8,MF
+353,Nottingham Forest,노팅엄 포레스트,Liam Delap,리암 델랍,2003,23,잉글랜드,186,9,FW
+354,Nottingham Forest,노팅엄 포레스트,Morgan Gibbs-White,모건 깁스화이트,2000,26,잉글랜드,171,10,MF
+355,Nottingham Forest,노팅엄 포레스트,Chris Wood,크리스 우드,1991,35,뉴질랜드,191,11,FW
+356,Nottingham Forest,노팅엄 포레스트,Dan Ndoye,단 은도예,2000,26,스위스,184,14,FW
+357,Nottingham Forest,노팅엄 포레스트,Ousmane Diomande,우스만 디오망데,2003,23,코트디부아르,190,17,DF
+358,Nottingham Forest,노팅엄 포레스트,James McAtee,제임스 맥아티,2002,24,잉글랜드,180,18,MF
+359,Nottingham Forest,노팅엄 포레스트,Igor Jesus,이고르 제주스,2001,25,브라질,180,19,FW
+360,Nottingham Forest,노팅엄 포레스트,John Victor,존 빅토르,1996,30,브라질,187,20,GK
+361,Nottingham Forest,노팅엄 포레스트,Ryan Yates,라이언 예이츠,1997,29,잉글랜드,190,21,MF
+362,Nottingham Forest,노팅엄 포레스트,Taiwo Awoniyi,타이워 아워니이,1997,29,나이지리아,183,22,FW
+363,Sunderland,선덜랜드,Robin Roefs,로빈 루프스,2003,23,네덜란드,193,1,GK
+364,Sunderland,선덜랜드,Trai Hume,트라이 흄,2002,24,북아일랜드,180,2,DF
+365,Sunderland,선덜랜드,Reinildo,헤이닐두,1994,32,모잠비크,180,3,DF
+366,Sunderland,선덜랜드,Nordi Mukiele,노르디 무키엘레,1997,29,프랑스,187,4,DF
+367,Sunderland,선덜랜드,Daniel Ballard,대니얼 발라드,1999,27,북아일랜드,187,5,DF
+368,Sunderland,선덜랜드,Granit Xhaka,그라니트 자카,1992,34,스위스,186,6,MF
+369,Sunderland,선덜랜드,Abdoul Ouattara,압둘 와타라,2006,20,부르키나파소,180,7,FW
+370,Sunderland,선덜랜드,Noah Sadiki,노아 사디키,2004,22,콩고민주공화국,178,8,MF
+371,Sunderland,선덜랜드,Wilson Isidor,윌송 이시도르,2000,26,프랑스,186,9,FW
+372,Sunderland,선덜랜드,Enzo Le Fee,엔조 르 페,2000,26,프랑스,170,10,MF
+373,Sunderland,선덜랜드,Romaine Mundle,로메인 먼들,2003,23,잉글랜드,180,11,FW
+374,Sunderland,선덜랜드,Melker Ellborg,멜케르 엘보리,2003,23,스웨덴,190,12,GK
+375,Sunderland,선덜랜드,Mouhamadou Diarra,무함마두 디아라,2003,23,말리,183,14,MF
+376,Sunderland,선덜랜드,Omar Alderete,오마르 알데레테,1996,30,파라과이,188,15,DF
+377,Sunderland,선덜랜드,Brian Brobbey,브라이언 브로비,2002,24,네덜란드,180,17,FW
+378,Sunderland,선덜랜드,Kevin Danso,케빈 단소,1998,28,오스트리아,190,18,DF
+379,Sunderland,선덜랜드,Alan Browne,앨런 브라운,1995,31,아일랜드,179,20,MF
+380,Sunderland,선덜랜드,Abdullah Ba,압둘라 바,2003,23,프랑스,179,22,MF
+381,Sunderland,선덜랜드,Nilson Angulo,닐손 앙굴로,2003,23,에콰도르,180,24,FW
+382,Sunderland,선덜랜드,Thomas Meunier,토마 뫼니에,1991,35,벨기에,191,25,DF
+383,Tottenham Hotspur,토트넘,Antonin Kinsky,안토닌 킨스키,2003,23,체코,190,1,GK
+384,Tottenham Hotspur,토트넘,Pedro Porro,페드로 포로,1999,27,스페인,173,2,DF
+385,Tottenham Hotspur,토트넘,Radu Dragusin,라두 드라구신,2002,24,루마니아,191,3,DF
+386,Tottenham Hotspur,토트넘,Kevin Danso,케빈 단소,1998,28,오스트리아,190,4,DF
+387,Tottenham Hotspur,토트넘,Rodrigo Bentancur,로드리고 벤탄쿠르,1997,29,우루과이,187,5,MF
+388,Tottenham Hotspur,토트넘,Micky van de Ven,미키 판더펜,2001,25,네덜란드,193,6,DF
+389,Tottenham Hotspur,토트넘,Mohammed Kudus,모하메드 쿠두스,2000,26,가나,177,7,MF
+390,Tottenham Hotspur,토트넘,Yves Bissouma,이브 비수마,1996,30,말리,182,8,MF
+391,Tottenham Hotspur,토트넘,Dominic Solanke,도미닉 솔란케,1997,29,잉글랜드,187,9,FW
+392,Tottenham Hotspur,토트넘,Xavi Simons,사비 시몬스,2003,23,네덜란드,179,10,MF
+393,Tottenham Hotspur,토트넘,Wilson Odobert,윌송 오도베르,2004,22,프랑스,182,11,FW
+394,Tottenham Hotspur,토트넘,Conor Gallagher,코너 갤러거,2000,26,잉글랜드,182,14,MF
+395,Tottenham Hotspur,토트넘,Lucas Bergvall,루카스 베리발,2006,20,스웨덴,187,15,MF
+396,Tottenham Hotspur,토트넘,Cristian Romero,크리스티안 로메로,1998,28,아르헨티나,185,17,DF
+397,Tottenham Hotspur,토트넘,James Maddison,제임스 매디슨,1996,30,잉글랜드,175,18,MF
+398,Tottenham Hotspur,토트넘,Mathys Tel,마티스 텔,2005,21,프랑스,183,19,FW
+399,Tottenham Hotspur,토트넘,Dejan Kulusevski,데얀 쿨루셉스키,2000,26,스웨덴,186,20,MF
+400,Tottenham Hotspur,토트넘,Destiny Udogie,데스티니 우도기,2002,24,이탈리아,186,21,DF
+401,Tottenham Hotspur,토트넘,Guglielmo Vicario,굴리엘모 비카리오,1996,30,이탈리아,194,22,GK
+402,Tottenham Hotspur,토트넘,Richarlison,히샤를리송,1997,29,브라질,184,23,FW
