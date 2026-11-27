@@ -3,7 +3,7 @@
 import requests
 from fastapi import APIRouter, HTTPException, status, FastAPI
 from pydantic import BaseModel, HttpUrl
-from services import perso_service
+from src.backend.services import perso_service
 
 PREFIX = '/video-translator/api/v1'
 

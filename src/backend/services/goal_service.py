@@ -1,17 +1,14 @@
 # goal_service.py
 # GOAL API
 
-import asyncio
-from functools import lru_cache
 import httpx
-from fastapi import FastAPI, File, Header, HTTPException
-from pydantic import BaseModel, Field
-from core.config import (
+from fastapi import HTTPException
+from src.backend.core.config import (
     GOAL_API_KEY,
     GOAL_BASE_URL,
     GOAL_HEADERS
 )
-from datetime import datetime, date, timedelta
+from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 
 # 외부 HTTP 비동기 클라이언트 생성

@@ -4,7 +4,7 @@
 import httpx
 from fastapi import HTTPException
 from urllib.parse import quote
-from core.config import (
+from src.backend.core.config import (
     PERSO_BASE_URL,
     PERSO_MEDIA_URL,
     PERSO_API_KEY,
